@@ -1,5 +1,656 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angelou provides a small commentary on her poem"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Background"
+        },
+        {
+          "tag": "Context",
+          "category": "Background"
+        }
+      ],
+      "uuid": "edc61a90-4a5e-474b-bf37-1ab12271bee0"
+    },
+    {
+      "start_time": 51,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Quick pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "0c5bcc6a-674a-4eb6-840a-4f365ac95444"
+    },
+    {
+      "start_time": 52,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angelou's voice rises slightly when she says dust, as if to demonstrate the speaker's certainty of their statement. As well, the inflection on the word \"dust\" implies the comparison of the speaker's ability to rise from something considered insignificant as something meaningful and gives the speaker power over their capability to overcome hardships"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "49e4cf8e-f771-4dcf-82ce-6cf815be23db"
+    },
+    {
+      "start_time": 59,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written line. Angelou says \"as if I have\" rather than \"I've got,\" extending the line by a couple words. This change might demonstrate the speaker attempting to emphasize the manner in which they are walking; the formal choice of words rather than the usage of contractions might imply that the speaker wants to draw attention to the importance of this comparison and how it is not something that should be brushed off. The original line was: \"’Cause I walk like I've got oil wells\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "d75c28cf-40c1-40a9-9f6a-27d3c0077719"
+    },
+    {
+      "start_time": 65,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written line; Angelou changes the order of \"suns\" and \"moons,\" which might imply the speaker's message for a brighter future as suns are brighter compared to moon. The original line in the written work was \"Just like moons and like suns,\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "784ed8d7-0856-4c1a-8d9c-bc5c0fba4d6a"
+    },
+    {
+      "start_time": 85,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written line. Angelou replaces the word \"haughtiness\" with \"sassiness\" in this line, inadvertently repeating the first line from the second stanza. By emphasizing the speaker's \"sassiness,\" the speaker is attempting to illustrate that this is an important trait that they possess, and the fact that the speaker is unapologetically bold and forward with their actions. As well, \"haughtiness\" carries a different meaning than \"sassiness,\" as it means being disdainfully proud. The original line in the written work was \"Does my haughtiness offend you?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "00a520e7-d20a-471c-ad8e-6e55d6295718"
+    },
+    {
+      "start_time": 88,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angelou chuckles, demonstrating the speaker's amusement towards whoever they are addressing the poem to and the fact that they are finding entertainment in the reaction of who they are addressing the poem to"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "c00cbfb6-2334-4d3d-9542-da1005e8d436"
+    },
+    {
+      "start_time": 89,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written line. Here, Angelou removes a word (\"you\") and replaces a word, (\"so\") from the original line in the written work, perhaps to remove the fact that the speaker is addressing someone. Rather, by placing importance on the fact that the person being addressed should not \"take it so awful hard,\" the speaker might have an idea of how they might react to their words or actions, and is attempting to tell them to not overreact. The original line was, \"Don't you take it awful hard\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "aeeb0775-8d1c-4d84-88d9-2efe51f4a60e"
+    },
+    {
+      "start_time": 92,
+      "end_time": 93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angelou chuckles again. As aforementioned, this demonstrates the speaker's amusement towards whoever they are addressing the poem to and the fact that they are finding entertainment in the reaction of who they are addressing the poem to. The wheezing laugh in this case emphasizes that the speaker finds more entertainment in the anticipated reaction of the person being addressed compared to when they chuckled earlier in the recording"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "b14356d3-79a4-45ef-b32e-b37c07047299"
+    },
+    {
+      "start_time": 93,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Quick pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "989d1998-de88-4145-bb58-19412aeb43e7"
+    },
+    {
+      "start_time": 100,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written word. Angelou replaces the word \"may\" in the original work with \"can\" — this change in word choice can change the meaning of the overall poem as it expresses certainty of the actions of the person being addressed. As the word \"may\" is considered more polite than \"can,\" it also implies that the speaker is viewing the person being addressed as an equal and is not seeking permission for anything. The original line was \"You may shoot me with your words,\" in the poem"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "e26d2f75-7ff8-4920-8f2d-6eb254575308"
+    },
+    {
+      "start_time": 102,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written word. Angelou replaces the word \"may\" in the original work with \"can\" — this change in word choice can change the meaning of the overall poem as it expresses certainty of the actions of the person being addressed. As the word \"may\" is considered more polite than \"can,\" it also implies that the speaker is viewing the person being addressed as an equal and is not seeking permission for anything. The original line was \"You may cut me with your eyes,\" in the poem"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "05ee2bc8-4325-4e69-9522-ea920de30960"
+    },
+    {
+      "start_time": 104,
+      "end_time": 107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written line. Angelou replaces the word \"may\" in the original work with \"can\" — this change in word choice can change the meaning of the overall poem as it expresses certainty of the actions of the person being addressed. As the word \"may\" is considered more polite than \"can,\" it also implies that the speaker is viewing the person being addressed as an equal and is not seeking permission for anything. The original line was, \"You may kill me with your hatefulness,\" in the poem"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "8b2ee2c8-36e7-4fd2-a273-a85c57e3e56c"
+    },
+    {
+      "start_time": 107,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angelou's pitch rises momentarily"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "e05e1698-f6dd-46e7-89f0-f78edbdef0c3"
+    },
+    {
+      "start_time": 107,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written line. Here, Angelou uses the word \"life\" to replace the word \"air\" in the original work — again, changing the meaning of the poem and comparison between the subject and its object. Air and life are different objects, and Angelou's intention use the word \"life\" gives the poem a new meaning as she does not use an element of nature to compare her strength, which she had done in the third stanza. The original line was, \"But still, like air, I’ll rise.\"\n Moreover, Angelou's voice emphasizes the word \"life,\" with a raise in the tone of her voice, illustrating the importance of life itself. By making this comparison, it demonstrates the speaker's unshakeable determination to overcome hardships"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "147d5282-1bfd-4a44-b2b4-ceff8e752bbb"
+    },
+    {
+      "start_time": 111,
+      "end_time": 113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written word. Angelou replaces the word \"upset\" with \"offend,\" in this line. Both words have different meanings; the latter of which implying that the speaker is seeking a stronger reaction from whoever they are addressing the question to as it means that they are insulted by the speaker's actions. In this case, they should feel insulted or even disrespected by the speaker's \"sexiness.\" The original written line is \"Does my sexiness upset you?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "006fffa5-1f76-4ec2-8244-755963d44610"
+    },
+    {
+      "start_time": 113,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angelou makes a sound of sympathy, but within the context of the poem, it might be sarcastic and seems to mock whoever the speaker is addressing, as the rhetorical questions they pose prior to this imply that they are not seeking validation from whoever they are addressing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Speech",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "39fdb5bf-cc8f-4665-9369-fc8977242d97"
+    },
+    {
+      "start_time": 118,
+      "end_time": 121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Long pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "1af7a788-d911-42b6-a54b-a58e25b08d8f"
+    },
+    {
+      "start_time": 130,
+      "end_time": 131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written word. Angelou omits the word \"that's\" in this line, therefore removing the indication that the speaker is moving on from a painful history. Rather, the omission of this word makes it clear that the speaker is expressing certainty about the past and how its effects still persist in them. The original line is \"Up from a past that's rooted in pain\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "a687f7da-d646-4410-b4a0-10696ce40c93"
+    },
+    {
+      "start_time": 133,
+      "end_time": 136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written line. Angelou omits the contraction \"I'm,\" demonstrating that the speaker is not identifying themselves as \"a black ocean.\" With the removal of this word, the line changes its meaning as it does not place emphasis on the speaker and is therefore an object that the speaker is simply describing rather than something that the speaker is asserting themselves as. The original line is, \"I'm a black ocean, leaping and wide,\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "f37ad7df-15f4-4231-9f95-7f88322f0d94"
+    },
+    {
+      "start_time": 147,
+      "end_time": 149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written line. Angelou omits the word \"that's\" and replaces the word \"wondrously\" with \"miraculously,\" illustrating that the speaker is attempting to demonstrate their determination to move on and forge a bright future. The omission of \"that's\" demonstrates the speaker's certainty of a bright future, and the replacement of the word \"wondrously\" with \"miraculously\" changes the meaning of this line. Instead of something that is impressive and meant to be something meant to be marvelled at, \"miraculously\" implies that this future is hard to believe or comprehend, and the speaker is breaking expectations and surprising people with their determination for a bright future. The original line is \"Into a daybreak that's wondrously clear\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "f8a74cef-80fc-4fe8-bf0d-9fce5d5e2603"
+    },
+    {
+      "start_time": 156,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written line; Angelou changes the order of \"the dream and the hope\" and switches it so that the word \"hope\" is introduced first. As with the line with the \"suns\" and \"moons\" at the beginning of the third stanza, this change in word order emphasizes the speaker's determination for a brighter future and their aspiration to become an inspiration for other people and create a brighter future. The original line was, \"I am the dream and the hope of the slave\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "bbd4eb42-8898-4041-98c2-27cfd365f831"
+    },
+    {
+      "start_time": 161,
+      "end_time": 163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angelou adds new words, \"and so naturally\" which are not included in the written work. By doing so, the speaker is reiterating what they have been saying throughout the poem, \"I rise,\" and is already expectant that they would be saying the phrase again. At this point, \"naturally\" implies that the speaker being able to rise from hardships is a normal occurrence and is to be expected by the person being addressed"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "87f2a3a3-ecaf-43b5-8765-01ab1f10ddf8"
+    },
+    {
+      "start_time": 163,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angelou claps, perhaps to drive the point home about the speaker's power in the ability to rise from hardship"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Audience Sounds",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "03521620-82f4-411b-b124-add7517c1668"
+    },
+    {
+      "start_time": 164,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Long pause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Extra-Poetic Sounds"
+        },
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "4982d013-c840-4c4d-8890-100bf0f9fd2f"
+    },
+    {
+      "start_time": 169,
+      "end_time": 171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Improvisation of original/written line. Angelou originally repeats the phrase, \"I rise\" three times in the written work, but the speaker says \"there I go rising,\" demonstrating their ability to continue to move forward and not look back. The change with this line also removes the emphasis in the words \"I rise,\" which might impact the powerful effect the speaker is attempting to convey with the assertion that they can rise above hardships no matter what. The new phrase allows the poem to leave off with suspense, as it places the speaker in a position of continuity and implies that their ability to rise is continuous and will not be stopped"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "8d6969bb-469a-4c7d-94f7-381ff5529a2c"
+    }
+  ],
   "set": "Default",
   "event_id": "1f7975af-855c-497f-9e6c-345889632f47",
   "source_id": "1d93e516-4f70-488f-8a4f-6b3ffb35657b"
